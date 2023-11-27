@@ -9,3 +9,13 @@
 <ul>Clone the repository</ul>
 <ul>Navigate to the project directory</ul>
 <ul>Compile and run the application using Visual Studio or your preferred IDE</ul></p>
+
+# Usage
+<ul>Upon running the application, follow the on-screen prompts to access a existing account.</ul>
+<ul>Use the menu options to perform transactions and manage your account.</ul>
+
+# Contributing
+<p>Contributions are welcome! If you'd like to contribute to the development of this project.</p>
+
+# License
+<p>This project is licensed under the MIT License - see the LICENSE.md file for details.</p>
