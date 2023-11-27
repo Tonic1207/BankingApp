@@ -6,4 +6,6 @@
 
 # Getting Started
 <p>To run the application, follow these steps:
-<ul>Clone the repository</ul></p>
+<ul>Clone the repository</ul>
+<ul>Navigate to the project directory</ul>
+<ul>Compile and run the application using Visual Studio or your preferred IDE</ul></p>
